@@ -74,9 +74,9 @@ Saya adalah seorang mahasiswa **Sains Data** yang bersemangat dalam mengeksplora
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Faiq_Atha_Rulloh"
         self.role = "Data Science Student"
-        self.language_spoken = ["id_ID", "en_US"]
+        self.language_spoken = ["250320571"]
         
     def current_learning(self):
         return [
