@@ -131,5 +131,5 @@ class DataScientist:
 </p>
 
 <p align="center">
-  <i>⭐️ From [yourusername](https://github.com/yourusername)</i>
+  <i>⭐️ From [athafaiq313-blip](https://github.com/athafaiq313-blip)</i>
 </p>
