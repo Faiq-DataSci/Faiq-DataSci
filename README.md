@@ -77,7 +77,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Faiq_Atha_Rulloh"
         self.role = "Data Science Student"
-        self.language_spoken = ["250320571"]
+        self.language = ["Python", "R", "SQL"]
         
     def current_learning(self):
         return [
