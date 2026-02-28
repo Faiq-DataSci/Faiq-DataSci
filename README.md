@@ -103,7 +103,7 @@ class DataScientist:
 ###  Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Faiq V2">
+  <a href="https://www.linkedin.com/in/faiq-v2-baa2a83b1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Faiq-DataSci">
@@ -112,7 +112,7 @@ class DataScientist:
   <a href="mailto:athafaiq313@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/FAIQ Atha">
+  <a href="https://x.com/AthaFaiq3576">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
