@@ -122,7 +122,3 @@ class DataScientist:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<p align="center">
-  <i>⭐️ From [athafaiq313-blip](https://github.com/athafaiq313-blip)</i>
-</p>
