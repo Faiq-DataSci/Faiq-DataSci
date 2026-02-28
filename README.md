@@ -16,7 +16,7 @@
 
 Saya adalah seorang mahasiswa **Sains Data** yang bersemangat dalam mengeksplorasi dunia data dan kecerdasan buatan. Dengan kombinasi keterampilan analitis dan teknis, saya berkomitmen untuk mengubah data mentah menjadi wawasan yang bermakna.
 
--  Saat ini fokus pada **Machine Learning** dan **Deep Learning**
+-  Saat ini fokus pada **Machine Learning**
 -  Sedang mempelajari **Natural Language Processing** dan **Computer Vision**
 -  Tertarik dalam **Data Visualization**, **Predictive Analytics**, dan **Big Data**
 -  Passionate tentang storytelling dengan data
