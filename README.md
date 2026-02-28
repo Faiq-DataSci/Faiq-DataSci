@@ -103,7 +103,7 @@ class DataScientist:
 ###  Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faiq-v2-baa2a83b1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/faiq-atha-rulloh-baa2a83b1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Faiq-DataSci">
