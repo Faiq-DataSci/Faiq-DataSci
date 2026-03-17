@@ -64,10 +64,10 @@ class DataScientist:
         self.language = ["Python", "R", "SQL"]
         
     def current_learning(self):
-        return pass
+        pass
     
     def interests(self):
-        return pass
+        pass
 ```
 
 ---
