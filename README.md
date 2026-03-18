@@ -56,7 +56,7 @@ Saya adalah seorang mahasiswa **Sains Data** yang bersemangat dalam mengeksplora
 
 ###  Current Focus Areas
 
-```python
+```Python
 class DataScientist:
     def __init__(self):
         self.name = "Faiq_Atha_Rulloh"
